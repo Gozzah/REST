@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Dec 30 16:43:17 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0160-a817-71e8-000005bc9e68 
+on database directory C:\Users\Peter Riis\Desktop\REST-master\REST-master\DAT\REST_ex2\memory\rest with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/C:/Users/Peter%20Riis/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_141-b15
+user.dir=C:\Users\Peter Riis\Desktop\REST-master\REST-master\DAT\REST_ex2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
